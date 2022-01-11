@@ -3,7 +3,7 @@
   <img src="../img/Joker.png" width="120" height="142">
 </p>
 
-[Accueil](index) | [Projet](projet) | [Publications](publications) | Partenaires | [Nous contacter](contact) | [Outils](outils) | [<img src="../img/drapeau EN.png" width="20">](https://motsmachines.github.io/joker/EN/index) [<img src="../img/drapeau FR.png" width="20">](https://motsmachines.github.io/joker/FR/index) 
+[Accueil](index) | [Projet](projet) | [Publications](publications) | Partenaires | [Nous contacter](contact) | [Outils](outils) | [<img src="../img/drapeau EN.png" width="20">](https://gavinthomas.github.io/joker-ru/EN/index) [<img src="../img/drapeau FR.png" width="20">](https://gavinthomas.github.io/joker-ru/FR/index) 
 <br>
 
 ## Organisateur·rice·s :

@@ -3,7 +3,7 @@
   <img src="../img/Joker.png" width="120" height="142">
 </p>
 
-Accueil | [Projet](projet) | [Publications](publications) | [Partenaires](partenaires) | [Nous contacter](contact) | [Outils](outils) | [<img src="../img/drapeau EN.png" width="20">](https://motsmachines.github.io/joker/EN/index) [<img src="../img/drapeau RU.png" width="20">](https://motsmachines.github.io/joker/RU/index)
+Accueil | [Projet](projet) | [Publications](publications) | [Partenaires](partenaires) | [Nous contacter](contact) | [Outils](outils) | [<img src="../img/drapeau EN.png" width="20">](https://gavinthomas.github.io/joker-ru/EN/index) [<img src="../img/drapeau RU.png" width="20">](https://gavinthomas.github.io/joker-ru/RU/index)
 <br>
 
 <h2 align="center">Interculturalité et localisation de l'humour et des jeux de mots</h2>

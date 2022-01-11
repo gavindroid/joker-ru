@@ -3,7 +3,7 @@
   <img src="../img/Joker.png" width="120" height="142">
 </p>
 
- Home | [Project](project) | [Publications](publications) | [Partners](partners) | [Contact Us](contact) | [Tools](tools) | [<img src="../img/drapeau FR.png" width="20">](https://motsmachines.github.io/joker/FR/index) [<img src="../img/drapeau RU.png" width="20">](https://motsmachines.github.io/joker/RU/index)
+ Home | [Project](project) | [Publications](publications) | [Partners](partners) | [Contact Us](contact) | [Tools](tools) | [<img src="../img/drapeau FR.png" width="20">](https://gavinthomas.github.io/joker-ru/FR/index) [<img src="../img/drapeau RU.png" width="20">](https://gavinthomas.github.io/joker-ru/RU/index)
 <br>
 
 <h2 align="center">Interculturality and Localization of Humor and Puns</h2>
