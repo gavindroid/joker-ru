@@ -3,7 +3,7 @@
   <img src="../img/Joker.png" width="120" height="142">
 </p>
   
-[Accueil](index) | [Projet](projet) | [Publications](publications) | [Partenaires](partenaires) | Nous contacter | [Outils](outils) | [<img src="../img/drapeau EN.png" width="20">](https://motsmachines.github.io/joker/EN/contact)
+[Accueil](index) | [Projet](projet) | [Publications](publications) | [Partenaires](partenaires) | Nous contacter | [Outils](outils) | [<img src="../img/drapeau EN.png" width="20">](https://motsmachines.github.io/joker/EN/index) [<img src="../img/drapeau RU.png" width="20">](https://motsmachines.github.io/joker/RU/index)
 <br>
 
 ## Contactez-nous :

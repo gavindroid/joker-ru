@@ -3,7 +3,7 @@
   <img src="../img/Joker.png" width="120" height="142">
 </p>
 
-[Home](index) | [Project](project) | [Publications](publications) | Partners | [Contact Us](contact) | [Tools](tools) | [<img src="../img/drapeau FR.png" width="20">](https://motsmachines.github.io/joker/FR/partenaires) 
+[Home](index) | [Project](project) | [Publications](publications) | Partners | [Contact Us](contact) | [Tools](tools) | [<img src="../img/drapeau FR.png" width="20">](https://motsmachines.github.io/joker/FR/index) [<img src="../img/drapeau RU.png" width="20">](https://motsmachines.github.io/joker/RU/index)
 <br>
 
 ## Organizers: 
