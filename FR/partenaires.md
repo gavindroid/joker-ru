@@ -3,7 +3,7 @@
   <img src="../img/Joker.png" width="120" height="142">
 </p>
 
-[Accueil](index) | [Projet](projet) | [Publications](publications) | Partenaires | [Nous contacter](contact) | [Outils](outils) | [<img src="../img/drapeau EN.png" width="20">](https://gavinthomas.github.io/joker-ru/EN/index) [<img src="../img/drapeau RU.png" width="20">](https://gavinthomas.github.io/joker-ru/RU/index)
+[Accueil](index) | [Projet](projet) | [Publications](publications) | Partenaires | [Nous contacter](contact) | [Outils](outils) | [<img src="../img/drapeau EN.png" width="20">](https://gavinthomas.github.io/joker-ru/EN/index) [<img src="../img/drapeau PT.png" width="20">](https://gavinthomas.github.io/joker-ru/PT/index)  [<img src="../img/drapeau ES.png" width="20">](https://gavinthomas.github.io/joker-ru/ES/index)  [<img src="../img/drapeau RU.png" width="20">](https://gavinthomas.github.io/joker-ru/RU/index) 
 <br>
 
 ## Organisateur·rice·s :
